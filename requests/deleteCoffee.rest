@@ -1,0 +1,3 @@
+DELETE http://localhost:3001/api/coffees/6230efeae4311175a3fac784
+content-type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFkbWluQGdtYWlsLmNvbSIsImlkIjoiNjIyZGYwODA0NmIyNTIwZjVkMmFjODU0IiwiaWF0IjoxNjQ3Mzc0MzM2fQ.clKKNCpwz6oiyjPDXD36i_v5XFsX3tVDtNCztM0aE7w

@@ -1,0 +1,9 @@
+POST http://localhost:3001/api/coffees
+content-type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFkbWluQGdtYWlsLmNvbSIsImlkIjoiNjIyZGYwODA0NmIyNTIwZjVkMmFjODU0IiwiaWF0IjoxNjQ3Mzc0MjMzfQ.spfzYyquZLET76ZCUoGUHwySDolXdwWYD0jn4ZxK3iI
+
+{
+  "name": "kafsaa",
+  "about": "Coffee with much milk",
+  "korisnikId": "622df08046b2520f5d2ac854"
+}

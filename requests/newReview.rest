@@ -1,0 +1,9 @@
+POST http://localhost:3001/api/reviews
+content-type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Imtva29sb0BnbWFpbC5jb20iLCJpZCI6IjYyMmUyMWMzZDc4ZjMzMTVlMzcxOTc2NSIsImlhdCI6MTY0NzM2NTYzMn0.TEixwt1Fyb4PDu3sO3UbANF5ZcNN6QVfhWBCTToOoHE
+
+{
+  "content": "I absolutely hate it.",
+  "grade": 1,
+  "korisnikId": "622e21c3d78f3315e3719765"
+}

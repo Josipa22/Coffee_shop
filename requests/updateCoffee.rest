@@ -1,0 +1,8 @@
+PUT  http://localhost:3001/api/coffees/623107fea8675f996b8534bc
+content-type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFkbWluQGdtYWlsLmNvbSIsImlkIjoiNjIyZGYwODA0NmIyNTIwZjVkMmFjODU0IiwiaWF0IjoxNjQ3MzgwNDUwfQ.FJqp2AlLjzK7o62dRpdFX7Tg5-cnjCy9F3yzdEt0HYI
+
+{
+  "name": "MacchiatoLarge2Times4",
+  "about": "coffee with milk"
+}

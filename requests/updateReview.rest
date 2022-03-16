@@ -1,0 +1,8 @@
+PUT  http://localhost:3001/api/reviews/622e4b45506413ed70fa5540
+content-type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Imtva29sb0BnbWFpbC5jb20iLCJpZCI6IjYyMmUyMWMzZDc4ZjMzMTVlMzcxOTc2NSIsImlhdCI6MTY0NzM2NTYzMn0.TEixwt1Fyb4PDu3sO3UbANF5ZcNN6QVfhWBCTToOoHE
+
+{
+  "content": " dont hate it that much anymore at all.",
+  "grade": 5
+}
